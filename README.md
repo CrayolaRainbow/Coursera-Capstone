@@ -1,2 +1,2 @@
-# Capstone
+# Coursera-Capstone
 Coursera-Capstone
